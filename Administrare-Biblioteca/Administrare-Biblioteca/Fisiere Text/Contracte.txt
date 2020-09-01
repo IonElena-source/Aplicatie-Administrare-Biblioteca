@@ -1,0 +1,45 @@
+﻿1000,18-5-2015
+Fratii Jderi,Mihail Sadoveanu,Roman istoric,2145,2
+Vasile Ana-Strada Crinilor,nr 2 Bloc A3,etaj 1-2990608510014-20
+1001,10-4-2015
+La tiganci,Mircea Eliade,Nuvela,2444,2
+Stroe Maria-Strada Nufarului nr 2 Bloc:B3 etaj:2-2990608510014-20
+1002,18-8-2016
+La tiganci,Mircea Eliade,Nuvela,2144,3
+Stroe Maria-Strada Nufarului nr 2 Bloc:B3 etaj:2-2990608510014-40
+1003,18-8-2016
+Insula Misterioasa,Jules Verne,Roman,2194,2
+Marin Gabriela-Strada Cuza  nr 2 Bloc:C3 etaj:2-2960608510014-30
+1004,18-8-2016
+Amurg,Stephenie Meyer,Roman fantastic,2135,2
+Ionita Mihaela-Strada Ceaune,nr 2 Bloc G3,etaj 2-2990608510014-20
+1005,18-8-2017
+Somnul,Cezar Petrecu,Nuvela psihologica,2745,2
+Crisan Dana-Strada Tei,nr 2 Bloc F3,etaj 1-2940608510014-20
+1006,18-8-2017
+Omul care si-a gasit umbra,Cezar Petrescu,Nuvela psihologica,4145,2
+Leicu Radu-Strada Dumbrava,nr 5 Bloc A3,etaj 4-2990628510014-19
+1007,18-5-2017
+Praslea cel voinic si merele de aur,Petre Ispirescu,Basm popular,2175,6
+Badea Mihai-Strada Ionilor,nr 2 Bloc A3,etaj 1-2990508510014-22
+1008,18-8-2018
+Memorii,Mircea Eliade,Roman biografic,2155,7
+Iancu Ana-Strada Crinilor,nr 3 Bloc A3,etaj 7-2990608510014-20
+1009,18-8-2018
+Romanul adolescentului miop,Mircea Eliade,Roman ,2325,2
+Nutu Petre-Strada Matasei,nr 6 Bloc G2,etaj 3-2990608510014-23
+1010,23-8-2018
+Burse de calatorie,Jules Verne,Roman,5115,4
+Marin Ana Maria-Strada Tonea,nr 4 Bloc E1,etaj 2-2990608510014-24
+1011,18-8-2018
+Cancelarul,Jules Verne,Romab,4115,3
+Cristian Toma-Strada Danilor,nr 4 Bloc D2,etaj 4-2890608510014-26
+1012,19-8-2018
+Calul balan,Agatha Cristie,Roman politist,2135,6
+Danciu Adela-Strada Manisa,nr 2 Bloc H2,etaj 4-2990205510014-20
+1013,22-8-2019
+Instelata aventura,George Ceausu,Roman ,1215,8
+Apostol Ana-Strada Lalelelor,nr 2 Bloc C2,etaj 4-2990608510014-20
+1014,21-8-2019
+Enigma Otiliei,George Calinescu,Roman realist,6495,4
+Matei Denisa-Strada Badea,nr 2 Bloc C2,etaj 4-2990608510014-20
